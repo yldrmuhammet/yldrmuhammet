@@ -1,4 +1,4 @@
-<img src ="https://media.giphy.com/media/JlVkLKuxRSvLy/giphy.gif" align="right" width="300" heigh="250">
+<img src ="https://media.giphy.com/media/JlVkLKuxRSvLy/giphy.gif" align="right" width="300" heigh="200">
 
 ## Hi There, I'm Muhammet.:blush:
 
@@ -15,7 +15,7 @@
  <br>
  <br>
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yldrmuhammet&layout=compact)](https://github.com/yldrmuhammet/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yldrmuhammet&layout=compact%theme=merko)](https://github.com/yldrmuhammet/github-readme-stats)
 
 
 ### 📫 How to reach to me 
