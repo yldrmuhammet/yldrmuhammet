@@ -9,14 +9,12 @@
 🥅 2022 Goals: Learn more about Front-End and Python
  
  
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yldrmuhammet&show_icons=true&theme=merko)](https://github.com/yldrmuhammet)
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yldrmuhammet&show_icons=true&theme=merko&hide=hack)
 
  <br>
  <br>
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yldrmuhammet&layout=compact%theme=merko)](https://github.com/yldrmuhammet/github-readme-stats)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yldrmuhammet&theme=merko&hide=hack)
 
 ### 📫 How to reach to me 
 
