@@ -31,6 +31,8 @@ style="vertical-align:top; margin:4px color:white"> </a>
 
 <a href="mailto:muhammet.safir@gmail.com" target="_blank" rel="noopener noreferrer"> <img src="https://cdns.iconmonstr.com/wp-content/releases/preview/2018/240/iconmonstr-gmail-5.png" alt="Git hub Link" height="40" style="vertical-align:top; margin:6px color:white" width= "40"> </a>
 
+</p>
+
 
 <br>
 <br>
