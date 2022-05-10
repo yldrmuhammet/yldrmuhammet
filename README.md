@@ -5,9 +5,9 @@
 
  ### Undergraduate Student, Developer and Engineer ! :information_desk_person: 
 
-🌱 I’m currently learning React.Js \ JavaScript and Python 
-👯 I would like to collaborate with other creators. 
-🥅 2022 Goals: Learn more about Front-End and Python
+🌱 I’m currently learning React.Js , JavaScript and Python <br>
+👯 I would like to collaborate with other creators. <br>
+🥅 2022 Goals: Learn more about Front-End and Python <br>
  
  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=yldrmuhammet&show_icons=true&theme=merko&hide=hack)
