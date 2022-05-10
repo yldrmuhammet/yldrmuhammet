@@ -22,13 +22,15 @@
 
 <p>
 
-<a href="https://github.com/yldrmuhammet" target="_blank" rel="noopener noreferrer"> <img src="./img/github-light.svg" alt="Git hub Link" height="40" style="vertical-align:top; margin:6px color:white" width= "22" > </a>
+<a href="https://github.com/yldrmuhammet" target="_blank" rel="noopener noreferrer"> <img src="https://cdns.iconmonstr.com/wp-content/releases/preview/2012/240/iconmonstr-github-5.png" alt="Git hub Link" height="40" style="vertical-align:top; margin:6px color:white" width= "40" > </a>
 
-<a href="https:///www.linkedin.com/in/muhammet--yildirim" target="_blank" rel="noopener noreferrer"> <img src="./img/
-linkedin-light.svg" alt="Git hub Link" height="40" style="vertical-align:top; margin:6px color:white" width= "22"> </a>
+<a href="https:///www.linkedin.com/in/muhammet--yildirim" target="_blank" rel="noopener noreferrer"> <img src="https://cdns.iconmonstr.com/wp-content/releases/preview/2012/240/iconmonstr-linkedin-5.png" alt="Git hub Link" height="40" style="vertical-align:top; margin:6px color:white" width= "40"> </a>
 
-<a href="https://www.instagram.com/muhammetyldrm_" target="_blank" rel="noopener noreferrer" width= "22"> <img src="./img/instagram-light.svg" alt="Instagram" height="40" style="vertical-align:top; margin:4px color:white"> </a>
-</p>
+<a href="https://www.instagram.com/muhammetyldrm_" target="_blank" rel="noopener noreferrer" width= "40"> <img src="https://cdns.iconmonstr.com/wp-content/releases/preview/2016/240/iconmonstr-instagram-15.png" alt="Instagram" height="40" 
+style="vertical-align:top; margin:4px color:white"> </a>
+
+<a href="mailto:muhammet.safir@gmail.com" target="_blank" rel="noopener noreferrer"> <img src="https://cdns.iconmonstr.com/wp-content/releases/preview/2018/240/iconmonstr-gmail-5.png" alt="Git hub Link" height="40" style="vertical-align:top; margin:6px color:white" width= "40"> </a>
+
 
 <br>
 <br>
