@@ -10,7 +10,7 @@
 🥅 2022 Goals: Learn more about Front-End and Python <br>
  
  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yldrmuhammet&show_icons=true&hide=hack)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yldrmuhammet&show_icons=true&hide=hack&theme=merko)
 
  <br>
  <br>
