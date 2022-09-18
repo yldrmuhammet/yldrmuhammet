@@ -7,7 +7,7 @@
 
 🌱 I’m currently learning Java and Java Spring <br>
 
-🥅 2022 Goals: Learn more about Back-End and Java <br>
+🥅 2022-2023 Goals: Learn more about Back-End and Java <br>
  
  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=yldrmuhammet&show_icons=true&hide=hack&theme=merko)
