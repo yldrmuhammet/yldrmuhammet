@@ -5,8 +5,8 @@
 
  ### Undergraduate Student, Developer and Engineer ! :information_desk_person: 
 
-🌱 I’m currently learning React.Js , JavaScript and Java <br>
-👯 I would like to collaborate with other creators. <br>
+🌱 I’m currently learning Java and Java Spring <br>
+
 🥅 2022 Goals: Learn more about Back-End and Java <br>
  
  
