@@ -31,10 +31,6 @@ style="vertical-align:top; margin:4px color:white"> </a>
 </p>
 
 
-<br>
-<br>
-
-
 ### Tech I Use
 
 <p>
