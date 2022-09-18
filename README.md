@@ -44,5 +44,6 @@ style="vertical-align:top; margin:4px color:white"> </a>
  
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
  
-<img src"https://dev.java/assets/images/java-logo-vert-blk.png" alt = "Java" height ="40" style="vertical-align:top; margin:4px">
+<img src="https://dev.java/assets/images/java-logo-vert-blk.png" alt = "Java" height ="40" style="vertical-align:top; margin:4px">
 
+<p>
